@@ -1,0 +1,53 @@
+p {
+    padding: 50px
+}
+
+h2 {
+    padding: 10px;
+    color: slategrey
+}
+
+
+/*titulo principal destaque*/
+
+.tituloDestaque {
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    border-bottom: 3px dotted #ccc
+}
+
+
+/*corpo*/
+
+.corpo {
+    width: 100%;
+}
+
+
+/*conteudo*/
+
+.conteudo {
+    max-width: 1280px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px
+}
+
+
+/*logo*/
+
+.logo {
+    width: 200px;
+    height: 50px;
+}
+
+
+/*CORES*/
+
+.cinza {
+    background: gray;
+    color: black
+}
